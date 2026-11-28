@@ -1,0 +1,1 @@
+import{r as e}from"./client-JwyfRXby.js";const a="",c=!!a;function u({onToken:t}){e.useRef(null);const s=e.useRef(t);s.current=t;const[n,r]=e.useState(!1);return e.useEffect(()=>{},[]),null}export{u as C,c as i};

@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.d20hero.app",
+      "sha256_cert_fingerprints": [
+        "F4:3A:05:19:82:02:3F:DB:F7:61:89:81:04:42:6C:55:D4:96:2F:CD:E7:67:24:90:BA:8A:92:5A:79:0F:32:DF"
+      ]
+    }
+  }
+]
